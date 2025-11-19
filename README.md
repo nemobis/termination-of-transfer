@@ -14,7 +14,7 @@ to Authors Alliance.
 - Original announcement: ["Returning Author's Rights: Termination of Transfer"
   Beta Tool Launched - Creative Commons][blogpost]
 - Main page: https://rightsback.org/
-  - FAQs: https://rightsback.org/questionnaire/faq
+  - FAQs: https://rightsback.org/faq/
   - **Start page of demo: https://rightsback.org/questionnaire/**
 
 [blogpost]: https://creativecommons.org/2006/12/21/returning-authors-rights-termination-of-transfer-beta-tool-launched/
